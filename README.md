@@ -12,4 +12,4 @@ IA Generativa OpenArt para criação de imagem
 Usei o ChatGPT para desenvolver os personagens e um roteiro inicial que poderia ser expandido para uma história completa
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/hudallan/lab-natty-or-not/blob/main/As%20Quatro%20Pedras%20do%20Equilíbrio.pdf
